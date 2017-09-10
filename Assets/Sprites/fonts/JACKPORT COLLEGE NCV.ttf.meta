@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2db0827624d55e643bd9a29565176432
+timeCreated: 1504241625
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JACKPORT COLLEGE NCV
+  fontNames:
+  - JACKPORT COLLEGE NCV
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

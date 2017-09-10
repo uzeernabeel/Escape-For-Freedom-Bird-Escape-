@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0b07e474b5ba58b469806c29975e1d90
+timeCreated: 1498976156
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - source: {instanceID: 0}
+  - coinCollect: {instanceID: 0}
+  - powerCollcet: {instanceID: 0}
+  - bigPowerCollect: {instanceID: 0}
+  - blast: {instanceID: 0}
+  - littlePowerCollect: {instanceID: 0}
+  - RocketPowerCollect: {instanceID: 0}
+  - BubblePowerCollect: {instanceID: 0}
+  - die: {instanceID: 0}
+  - start: {fileID: 8300000, guid: 2e59eefc1788c6d4dbb535528d2b8d82, type: 3}
+  - timerText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

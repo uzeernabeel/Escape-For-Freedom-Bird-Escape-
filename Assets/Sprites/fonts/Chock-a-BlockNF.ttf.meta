@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 94a186619759a0142b084399079e9f10
+timeCreated: 1497205968
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chock A Block NF
+  fontNames:
+  - Chock A Block NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

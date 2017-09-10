@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bird
+  - Backgrounds
+  - Enemy
+  - Coin
+  - Power1
+  - Power2
+  - Loding
+  - Rocket
+  - bullet
+  - Rocket2
+  - Rocket3
+  - bubble
+  - Power3
+  - Power4
+  - Power5
+  - text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ObstaclesLayer
+  - Player
+  - sadds
+  - texts
+  - backgrounds
+  - GameOverScreen
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - info
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: trail
+    uniqueID: 185762027
+    locked: 0
